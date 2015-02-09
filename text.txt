@@ -1,0 +1,5 @@
+	    <p>Hi! user !</p><br>
+	       <p>This is sample text and here is your image:</p>
+	       <p>
+	       <image_url>
+	    </p>
